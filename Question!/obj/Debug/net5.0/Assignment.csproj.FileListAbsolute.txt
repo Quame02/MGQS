@@ -1,0 +1,16 @@
+C:\Users\ELIAS BASHIRUDEEN\Desktop\Assignment\question!\bin\Debug\net5.0\Assignment.exe
+C:\Users\ELIAS BASHIRUDEEN\Desktop\Assignment\question!\bin\Debug\net5.0\Assignment.deps.json
+C:\Users\ELIAS BASHIRUDEEN\Desktop\Assignment\question!\bin\Debug\net5.0\Assignment.runtimeconfig.json
+C:\Users\ELIAS BASHIRUDEEN\Desktop\Assignment\question!\bin\Debug\net5.0\Assignment.runtimeconfig.dev.json
+C:\Users\ELIAS BASHIRUDEEN\Desktop\Assignment\question!\bin\Debug\net5.0\Assignment.dll
+C:\Users\ELIAS BASHIRUDEEN\Desktop\Assignment\question!\bin\Debug\net5.0\ref\Assignment.dll
+C:\Users\ELIAS BASHIRUDEEN\Desktop\Assignment\question!\bin\Debug\net5.0\Assignment.pdb
+C:\Users\ELIAS BASHIRUDEEN\Desktop\Assignment\question!\obj\Debug\net5.0\Assignment.csproj.AssemblyReference.cache
+C:\Users\ELIAS BASHIRUDEEN\Desktop\Assignment\question!\obj\Debug\net5.0\Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ELIAS BASHIRUDEEN\Desktop\Assignment\question!\obj\Debug\net5.0\Assignment.AssemblyInfoInputs.cache
+C:\Users\ELIAS BASHIRUDEEN\Desktop\Assignment\question!\obj\Debug\net5.0\Assignment.AssemblyInfo.cs
+C:\Users\ELIAS BASHIRUDEEN\Desktop\Assignment\question!\obj\Debug\net5.0\Assignment.csproj.CoreCompileInputs.cache
+C:\Users\ELIAS BASHIRUDEEN\Desktop\Assignment\question!\obj\Debug\net5.0\Assignment.dll
+C:\Users\ELIAS BASHIRUDEEN\Desktop\Assignment\question!\obj\Debug\net5.0\ref\Assignment.dll
+C:\Users\ELIAS BASHIRUDEEN\Desktop\Assignment\question!\obj\Debug\net5.0\Assignment.pdb
+C:\Users\ELIAS BASHIRUDEEN\Desktop\Assignment\question!\obj\Debug\net5.0\Assignment.genruntimeconfig.cache
